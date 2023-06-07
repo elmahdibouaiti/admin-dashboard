@@ -49,5 +49,4 @@ function App() {
 }
 
 export default App;
-/*i love u mommy*/
-/*I really love u mommy*/
+
